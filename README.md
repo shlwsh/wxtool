@@ -3,7 +3,7 @@
 
 ### 欢迎指出bug，欢迎pull requests
 
-Windows版本微信客户端自动化，可实现简单的发送、接收微信消息、保存聊天图片
+Windows版本微信客户端自动化，可实现简单的发送、接收微信消息、保存聊天图片及相关文件到指定目录中
 
 **3.9.11.17版本微信安装包下载**：
 [点击下载](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.9.11.17/WeChatSetup-3.9.11.17.exe)
